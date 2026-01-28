@@ -2,4 +2,4 @@
 Version: 1.0.0
 Date: 27.01.2026
   Changes:
-    - 新增星球翻譯: 
+    - 新增星球翻譯: 卡斯特拉星(castra)、莫辛星(moshine)
