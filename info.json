@@ -1,11 +1,12 @@
 {
-  "name": "Warptorio2_Language_TraditionalChinese",
-  "title": "Warptorio2繁體中文翻譯模組",
-  "description": "Warptorio2繁體中文翻譯模組\nThis is the Traditional Chinese translate mod for Warptorio2",
+  "name": "Planet_Mod_Language_TraditionalChinese",
+  "title": "多顆模組星球繁體中文翻譯",
+  "description": "多顆模組星球的繁體中文翻譯\nThis is the Traditional Chinese translate mod for multiple modded planet.",
   "author": "YourName_Mitsuha",
-  "version": "1.0.2",
-  "factorio_version": "1.1",
+  "version": "1.0.0",
+  "factorio_version": "2.0.73",
   "dependencies": [
-    "warptorio2 >= 1.3.10"
+    "castra >= 0.5.4",
+    "Moshine >= 1.1.3"
   ]
 }
