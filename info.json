@@ -3,7 +3,7 @@
   "title": "多顆模組星球繁體中文翻譯",
   "description": "多顆模組星球的繁體中文翻譯\nThis is the Traditional Chinese translate mod for multiple modded planet.",
   "author": "YourName_Mitsuha",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "factorio_version": "2.0",
   "dependencies": [
     "? castra >= 0.5.4",
@@ -12,6 +12,8 @@
     "? AsteroidBelt >= 1.2.3",
     "? secretas >= 1.0.33",
     "? planetaris-hyarion >= 1.2.3",
-    "? planetaris-arig >= 1.1.0"
+    "? planetaris-arig >= 1.1.0",
+    "? Muria >= 1.0.4",
+    "? apia >= 0.0.2"
   ]
 }
